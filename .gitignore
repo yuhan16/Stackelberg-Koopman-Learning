@@ -1,0 +1,7 @@
+.venv*
+tmp*
+__pycache__
+runs
+data/*
+!data/dest-logo.png
+logs

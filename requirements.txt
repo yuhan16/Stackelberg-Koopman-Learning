@@ -1,0 +1,5 @@
+matplotlib>=3.7.0
+numpy=>1.25.1
+scipy=>1.11.1
+torch=>2.0.1
+tensorboard
